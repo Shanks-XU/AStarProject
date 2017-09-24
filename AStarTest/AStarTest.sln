@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A星算法1", "A星算法1\A星算法1.csproj", "{E37AEAF1-C1E2-4D2B-BD85-3F51C630A9A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A星算法2", "A星算法2\A星算法2.csproj", "{30B9FD82-89C6-49E6-A964-9D98CFCACEBA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E37AEAF1-C1E2-4D2B-BD85-3F51C630A9A8}.Debug|x86.ActiveCfg = Debug|x86
+		{E37AEAF1-C1E2-4D2B-BD85-3F51C630A9A8}.Debug|x86.Build.0 = Debug|x86
+		{E37AEAF1-C1E2-4D2B-BD85-3F51C630A9A8}.Release|x86.ActiveCfg = Release|x86
+		{E37AEAF1-C1E2-4D2B-BD85-3F51C630A9A8}.Release|x86.Build.0 = Release|x86
+		{30B9FD82-89C6-49E6-A964-9D98CFCACEBA}.Debug|x86.ActiveCfg = Debug|x86
+		{30B9FD82-89C6-49E6-A964-9D98CFCACEBA}.Debug|x86.Build.0 = Debug|x86
+		{30B9FD82-89C6-49E6-A964-9D98CFCACEBA}.Release|x86.ActiveCfg = Release|x86
+		{30B9FD82-89C6-49E6-A964-9D98CFCACEBA}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal
